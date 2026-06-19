@@ -13287,7 +13287,7 @@ var Zre = /* @__PURE__ */ s(((e, t) => {
 	chatSessionKey: "sessionId",
 	defaultLanguage: "en",
 	showWelcomeScreen: !1,
-	initialMessages: ["Hi there! 👋", "My name is Nathan. How can I assist you today?"],
+	initialMessages: ["Hi there! 👋", "I am AI. How can I assist you today?"],
 	i18n: { en: {
 		title: "Hi there! 👋",
 		subtitle: "Start a chat. We're here to help you 24/7.",
